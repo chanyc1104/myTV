@@ -70,9 +70,21 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
-
-#EXTINF:-1  tvg-name="美亞電影台" group-title="🎥影視",美亞電影台
+#EXTINF:-1  tvg-name="好萊塢電影台" group-title="🎥影視",好萊塢電影台
+https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1  tvg-name="美亞電影台(粵)" group-title="🎥影視",美亞電影台(粵)
 http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1  tvg-name="美亞電影台(普)" group-title="🎥影視",美亞電影台(普)
+https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
+#EXTINF:-1  tvg-name="HBO_HD" group-title="🎥影視",HBO_HD
+https://smt.858.qzz.io/Smart.php?id=hbohd_twn
+#EXTINF:-1  tvg-name="CINEMAX" group-title="🎥影視",CINEMAX
+https://smt.858.qzz.io/Smart.php?id=cinemax_twn
+
+
+
+
+
 #EXTINF:-1  tvg-name="龍華電影" group-title="🎥影視",龍華電影
 #https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1  tvg-name="龍華經典" group-title="🎥影視",龍華經典
@@ -99,6 +111,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kgj11s
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qeg0vs
+
 
 
 
