@@ -56,6 +56,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 
+#EXTINF:-1  tvg-name="東森新聞" group-title="🇹🇼台灣",東森新聞
+http://51.89.166.17:3002/index.php?id=ettvnews
 #EXTINF:-1  tvg-name="TVBS" group-title="🇹🇼台灣",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1  tvg-name="中天新聞" group-title="🇹🇼台灣",中天新聞
@@ -91,6 +93,7 @@ https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c213207
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1  tvg-name="南國都市" group-title="🎡廣東",南國都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+
 
 
 
