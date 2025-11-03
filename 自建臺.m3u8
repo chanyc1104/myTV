@@ -90,6 +90,8 @@ https://smt.858.qzz.io/Smart.php?id=ettvmovie
 https://smt.858.qzz.io/Smart.php?id=ettvwestern
 #EXTINF:-1  tvg-name="HBO_HD" group-title="🎥影視",HBO_HD
 https://smt.858.qzz.io/Smart.php?id=hbohd_twn
+#EXTINF:-1  tvg-name="ROCKAction" group-title="🎥影視",ROCKAction
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2d2l8a
 #EXTINF:-1  tvg-name="CINEMAX" group-title="🎥影視",CINEMAX
 https://smt.858.qzz.io/Smart.php?id=cinemax_twn
 
@@ -124,6 +126,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kgj11s
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qeg0vs
+
 
 
 
