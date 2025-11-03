@@ -21,6 +21,8 @@ http://php.jdshipin.com/smt.php?id=Tvbentertainment
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1  tvg-name="TVB星河" group-title="🇭🇰香港",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1  tvg-name="TVB千禧經典" group-title="🇭🇰香港",TVB千禧經典
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1nd68n
 #EXTINF:-1  tvg-name="ViuTV" group-title="🇭🇰香港",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1  tvg-name="HOY(有線)77" group-title="🇭🇰香港",HOY(有線)77
@@ -118,6 +120,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kgj11s
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qeg0vs
+
 
 
 
