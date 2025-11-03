@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="翡翠台4K" group-title="🇭🇰香港",翡翠台4K
 http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1  tvg-name="翡翠台4K" group-title="🇭🇰香港",翡翠台4K
+http://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1  tvg-name="翡翠台" group-title="🇭🇰香港",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1  tvg-name="翡翠台(廣東有線)" group-title="🇭🇰香港",翡翠台(廣東有線)
@@ -93,6 +95,7 @@ https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c213207
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1  tvg-name="南國都市" group-title="🎡廣東",南國都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+
 
 
 
