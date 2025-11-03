@@ -110,6 +110,10 @@ https://smt.858.qzz.io/Smart.php?id=cinemax_twn
 #https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 
+#EXTINF:-1  tvg-name="LOVE NATURE" group-title="🪐知識",LOVE NATURE
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=n66ze9
+
+
 #EXTINF:-1  tvg-name="廣州新聞" group-title="🎡廣東",廣州新聞
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 #EXTINF:-1  tvg-name="廣州綜合" group-title="🎡廣東",廣州綜合
@@ -120,6 +124,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kgj11s
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qeg0vs
+
 
 
 
