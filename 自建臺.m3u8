@@ -97,6 +97,9 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f3823
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 #EXTINF:-1  tvg-name="廣東體育" group-title="🎡廣東",廣東體育
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=kgj11s
+#EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qeg0vs
+
 
 
 
