@@ -70,7 +70,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
-
 #EXTINF:-1  tvg-name="東森新聞" group-title="🇹🇼台灣",東森新聞
 https://smt.858.qzz.io/Smart.php?id=ettvnews
 #EXTINF:-1  tvg-name="TVBS" group-title="🇹🇼台灣",TVBS
@@ -103,6 +102,8 @@ https://smt.858.qzz.io/Smart.php?id=ettvwestern
 https://smt.858.qzz.io/Smart.php?id=hbohd_twn
 #EXTINF:-1  tvg-name="ROCKAction" group-title="🎥影視",ROCKAction
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=n0qmty
+#EXTINF:-1  tvg-name="Thrill" group-title="🎥影視",Thrill
+https://smt.858.qzz.io/Smart.php?id=Thrill
 
 #EXTINF:-1  tvg-name="龍祥時代" group-title="🎥影視",龍祥時代
 https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
@@ -128,16 +129,57 @@ https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zibfue
 
 
+#EXTINF:-1  tvg-name="CCTV-1 綜合" group-title="🇨🇳國內",CCTV-1 綜合
+https://smt.858.qzz.io/Smart.php?id=cctv1
+#EXTINF:-1  tvg-name="CCTV-2 財經" group-title="🇨🇳國內",CCTV-2 財經
+https://smt.858.qzz.io/Smart.php?id=cctv2
+#EXTINF:-1  tvg-name="CCTV-3 綜藝" group-title="🇨🇳國內",CCTV-3 綜藝
+https://smt.858.qzz.io/Smart.php?id=cctv3
+#EXTINF:-1  tvg-name="CCTV-4中文國際" group-title="🇨🇳國內",CCTV-4 中文國際
+https://smt.858.qzz.io/Smart.php?id=Cctv4
+#EXTINF:-1  tvg-name="CCTV-5 體育" group-title="🇨🇳國內",CCTV-5 體育
+https://smt.858.qzz.io/Smart.php?id=cctv5
+#EXTINF:-1  tvg-name="CCTV-5+ 體育賽事" group-title="🇨🇳國內",CCTV-5+ 體育賽事
+https://smt.858.qzz.io/Smart.php?id=cctv5plus
+EXTINF:-1  tvg-name="CCTV-6 電影" group-title="🇨🇳國內",CCTV-6 電影
+https://smt.858.qzz.io/Smart.php?id=cctv6
+EXTINF:-1  tvg-name="CCTV-7 國防軍事" group-title="🇨🇳國內",CCTV-7 國防軍事
+https://smt.858.qzz.io/Smart.php?id=cctv7
+EXTINF:-1  tvg-name="CCTV-8 電視劇" group-title="🇨🇳國內",CCTV-8 電視劇
+https://smt.858.qzz.io/Smart.php?id=cctv8
+EXTINF:-1  tvg-name="CCTV-9 記錄" group-title="🇨🇳國內",CCTV-9 記錄
+https://smt.858.qzz.io/Smart.php?id=cctv9
+EXTINF:-1  tvg-name="CCTV-10 科教" group-title="🇨🇳國內",CCTV-10 科教
+https://smt.858.qzz.io/Smart.php?id=cctv10hd
+EXTINF:-1  tvg-name="CCTV-11 戲曲" group-title="🇨🇳國內",CCTV-11 戲曲
+https://smt.858.qzz.io/Smart.php?id=cctv11
+EXTINF:-1  tvg-name="CCTV-12 社會與法" group-title="🇨🇳國內",CCTV-12 社會與法
+https://smt.858.qzz.io/Smart.php?id=cctv12
+EXTINF:-1  tvg-name="CCTV-13 新聞" group-title="🇨🇳國內",CCTV-13 新聞
+https://smt.858.qzz.io/Smart.php?id=cctv13
+EXTINF:-1  tvg-name="CCTV-14 少兒" group-title="🇨🇳國內",CCTV-14 少兒
+https://smt.858.qzz.io/Smart.php?id=cctv14
+EXTINF:-1  tvg-name="CCTV-15 音樂" group-title="🇨🇳國內",CCTV-15 音樂
+https://smt.858.qzz.io/Smart.php?id=cctv15
+EXTINF:-1  tvg-name="CCTV-16 奧林匹克" group-title="🇨🇳國內",CCTV-16 奧林匹克
+https://smt.858.qzz.io/Smart.php?id=cctv16
+EXTINF:-1  tvg-name="CCTV-17 農村農業" group-title="🇨🇳國內",CCTV-17 農村農業
+https://smt.858.qzz.io/Smart.php?id=cctv17
+
+
 #EXTINF:-1  tvg-name="廣州新聞" group-title="🎡廣東",廣州新聞
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 #EXTINF:-1  tvg-name="廣州綜合" group-title="🎡廣東",廣州綜合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1  tvg-name="南國都市" group-title="🎡廣東",南國都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+#EXTINF:-1  tvg-name="廣東衞視" group-title="🎡廣東",廣東衞視
+https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1  tvg-name="廣東體育" group-title="🎡廣東",廣東體育
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+
 
 
 
