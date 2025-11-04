@@ -19,10 +19,18 @@ http://bxtv.3a.ink/api.php?id=18
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1  tvg-name="TVB娛樂新聞台" group-title="🇭🇰香港",TVB娛樂新聞台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1  tvg-name="翡翠劇集台" group-title="🇭🇰香港"
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=rfvjtb
 #EXTINF:-1  tvg-name="TVB星河" group-title="🇭🇰香港",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1  tvg-name="TVB武俠" group-title="🇭🇰香港",TVB武俠
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=snfxor
 #EXTINF:-1  tvg-name="TVB千禧經典" group-title="🇭🇰香港",TVB千禧經典
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1nd68n
+#EXTINF:-1  tvg-name="TVB1" group-title="🇭🇰香港",TVB1
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=pk03j2
+#EXTINF:-1  tvg-name="TVB J1" group-title="🇭🇰香港",TVB J1
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=8fslul
 #EXTINF:-1  tvg-name="ViuTV" group-title="🇭🇰香港",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1  tvg-name="HOY(有線)77" group-title="🇭🇰香港",HOY(有線)77
@@ -181,6 +189,7 @@ https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+
 
 
 
