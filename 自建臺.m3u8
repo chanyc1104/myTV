@@ -165,6 +165,8 @@ https://smt.858.qzz.io/Smart.php?id=cctv15
 https://smt.858.qzz.io/Smart.php?id=cctv16
 #EXTINF:-1  tvg-name="CCTV-17 農村農業" group-title="🇨🇳國內",CCTV-17 農村農業
 https://smt.858.qzz.io/Smart.php?id=cctv17
+#EXTINF:-1  tvg-name="五星體育" group-title="🇨🇳國內",五星體育
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gzq3gg
 
 
 #EXTINF:-1  tvg-name="廣州新聞" group-title="🎡廣東",廣州新聞
@@ -179,6 +181,7 @@ https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+
 
 
 
