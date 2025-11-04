@@ -141,29 +141,29 @@ https://smt.858.qzz.io/Smart.php?id=Cctv4
 https://smt.858.qzz.io/Smart.php?id=cctv5
 #EXTINF:-1  tvg-name="CCTV-5+ 體育賽事" group-title="🇨🇳國內",CCTV-5+ 體育賽事
 https://smt.858.qzz.io/Smart.php?id=cctv5plus
-EXTINF:-1  tvg-name="CCTV-6 電影" group-title="🇨🇳國內",CCTV-6 電影
+#EXTINF:-1  tvg-name="CCTV-6 電影" group-title="🇨🇳國內",CCTV-6 電影
 https://smt.858.qzz.io/Smart.php?id=cctv6
-EXTINF:-1  tvg-name="CCTV-7 國防軍事" group-title="🇨🇳國內",CCTV-7 國防軍事
+#EXTINF:-1  tvg-name="CCTV-7 國防軍事" group-title="🇨🇳國內",CCTV-7 國防軍事
 https://smt.858.qzz.io/Smart.php?id=cctv7
-EXTINF:-1  tvg-name="CCTV-8 電視劇" group-title="🇨🇳國內",CCTV-8 電視劇
+#EXTINF:-1  tvg-name="CCTV-8 電視劇" group-title="🇨🇳國內",CCTV-8 電視劇
 https://smt.858.qzz.io/Smart.php?id=cctv8
-EXTINF:-1  tvg-name="CCTV-9 記錄" group-title="🇨🇳國內",CCTV-9 記錄
+#EXTINF:-1  tvg-name="CCTV-9 記錄" group-title="🇨🇳國內",CCTV-9 記錄
 https://smt.858.qzz.io/Smart.php?id=cctv9
-EXTINF:-1  tvg-name="CCTV-10 科教" group-title="🇨🇳國內",CCTV-10 科教
+#EXTINF:-1  tvg-name="CCTV-10 科教" group-title="🇨🇳國內",CCTV-10 科教
 https://smt.858.qzz.io/Smart.php?id=cctv10hd
-EXTINF:-1  tvg-name="CCTV-11 戲曲" group-title="🇨🇳國內",CCTV-11 戲曲
+#EXTINF:-1  tvg-name="CCTV-11 戲曲" group-title="🇨🇳國內",CCTV-11 戲曲
 https://smt.858.qzz.io/Smart.php?id=cctv11
-EXTINF:-1  tvg-name="CCTV-12 社會與法" group-title="🇨🇳國內",CCTV-12 社會與法
+#EXTINF:-1  tvg-name="CCTV-12 社會與法" group-title="🇨🇳國內",CCTV-12 社會與法
 https://smt.858.qzz.io/Smart.php?id=cctv12
-EXTINF:-1  tvg-name="CCTV-13 新聞" group-title="🇨🇳國內",CCTV-13 新聞
+#EXTINF:-1  tvg-name="CCTV-13 新聞" group-title="🇨🇳國內",CCTV-13 新聞
 https://smt.858.qzz.io/Smart.php?id=cctv13
-EXTINF:-1  tvg-name="CCTV-14 少兒" group-title="🇨🇳國內",CCTV-14 少兒
+#EXTINF:-1  tvg-name="CCTV-14 少兒" group-title="🇨🇳國內",CCTV-14 少兒
 https://smt.858.qzz.io/Smart.php?id=cctv14
-EXTINF:-1  tvg-name="CCTV-15 音樂" group-title="🇨🇳國內",CCTV-15 音樂
+#EXTINF:-1  tvg-name="CCTV-15 音樂" group-title="🇨🇳國內",CCTV-15 音樂
 https://smt.858.qzz.io/Smart.php?id=cctv15
-EXTINF:-1  tvg-name="CCTV-16 奧林匹克" group-title="🇨🇳國內",CCTV-16 奧林匹克
+#EXTINF:-1  tvg-name="CCTV-16 奧林匹克" group-title="🇨🇳國內",CCTV-16 奧林匹克
 https://smt.858.qzz.io/Smart.php?id=cctv16
-EXTINF:-1  tvg-name="CCTV-17 農村農業" group-title="🇨🇳國內",CCTV-17 農村農業
+#EXTINF:-1  tvg-name="CCTV-17 農村農業" group-title="🇨🇳國內",CCTV-17 農村農業
 https://smt.858.qzz.io/Smart.php?id=cctv17
 
 
@@ -179,6 +179,7 @@ https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+
 
 
 
