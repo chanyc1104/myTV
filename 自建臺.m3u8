@@ -109,7 +109,7 @@ https://smt.858.qzz.io/Smart.php?id=ettvwestern
 #EXTINF:-1  tvg-name="HBO_HD" group-title="🎥影視",HBO_HD
 https://smt.858.qzz.io/Smart.php?id=hbohd_twn
 #EXTINF:-1  tvg-name="ROCKAction" group-title="🎥影視",ROCKAction
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=n0qmty
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=n0qmty
 #EXTINF:-1  tvg-name="Thrill" group-title="🎥影視",Thrill
 https://smt.858.qzz.io/Smart.php?id=Thrill
 
@@ -118,23 +118,23 @@ https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 
 
 #EXTINF:-1  tvg-name="龍華電影" group-title="🎥影視",龍華電影
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
 #EXTINF:-1  tvg-name="龍華經典" group-title="🎥影視",龍華經典
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1pz6ai
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1pz6ai
 #EXTINF:-1  tvg-name="龍華卡通" group-title="🎥影視",龍華卡通
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=jq9j4e
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=jq9j4e
 #EXTINF:-1  tvg-name="龍華偶像" group-title="🎥影視",龍華偶像
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=egi3ed
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=egi3ed
 #EXTINF:-1  tvg-name="龍華日韓" group-title="🎥影視",龍華日韓
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=s1l1rr
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=s1l1rr
 #EXTINF:-1  tvg-name="龍華戲劇" group-title="🎥影視",龍華戲劇
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yojjwc
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yojjwc
 #EXTINF:-1  tvg-name="龍華洋片" group-title="🎥影視",龍華洋片
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
 
 
 #EXTINF:-1  tvg-name="LOVE NATURE" group-title="🪐知識",LOVE NATURE
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zibfue
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zibfue
 
 
 #EXTINF:-1  tvg-name="CCTV-1 綜合" group-title="🇨🇳國內",CCTV-1 綜合
@@ -174,7 +174,7 @@ https://smt.858.qzz.io/Smart.php?id=cctv16
 #EXTINF:-1  tvg-name="CCTV-17 農村農業" group-title="🇨🇳國內",CCTV-17 農村農業
 https://smt.858.qzz.io/Smart.php?id=cctv17
 #EXTINF:-1  tvg-name="五星體育" group-title="🇨🇳國內",五星體育
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gzq3gg
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gzq3gg
 
 
 #EXTINF:-1  tvg-name="廣州新聞" group-title="🎡廣東",廣州新聞
@@ -186,9 +186,10 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 #EXTINF:-1  tvg-name="廣東衞視" group-title="🎡廣東",廣東衞視
 https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1  tvg-name="廣東體育" group-title="🎡廣東",廣東體育
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+
 
 
 
