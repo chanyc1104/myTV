@@ -24,19 +24,19 @@ https://php.946985.filegear-sg.me/iptv/jacktv.php?id=rfvjtb
 #EXTINF:-1  tvg-name="TVB星河" group-title="🇭🇰香港",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1  tvg-name="TVB武俠" group-title="🇭🇰香港",TVB武俠
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=snfxor
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1  tvg-name="TVB千禧經典" group-title="🇭🇰香港",TVB千禧經典
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4ed8ef
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1  tvg-name="TVB1" group-title="🇭🇰香港",TVB1
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=pk03j2
+https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1  tvg-name="TVB J1" group-title="🇭🇰香港",TVB J1
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=8fslul
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1  tvg-name="ViuTV" group-title="🇭🇰香港",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1  tvg-name="HOY(有線)77" group-title="🇭🇰香港",HOY(有線)77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1  tvg-name="NOW新聞台" group-title="🇭🇰香港",NOW新聞台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=3hg83d
+http://cdn.163189.xyz/163189/now
 #EXTINF:-1  tvg-name="NOW直播台" group-title="🇭🇰香港",NOW直播台
 http://hls.168.us.kg/u/331/master.m3u8
 #EXTINF:-1  tvg-name="NOW財經台" group-title="🇭🇰香港",NOW財經台
@@ -59,9 +59,9 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1  tvg-name="澳視澳門" group-title="🇲🇴澳門",澳視澳門
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
 #EXTINF:-1  tvg-name="澳視衛星" group-title="🇲🇴澳門",澳視衛星
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=uzmi0s
+http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1  tvg-name="澳視體育" group-title="🇲🇴澳門",澳視體育
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=acnzu3
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1  tvg-name="澳門蓮花" group-title="🇲🇴澳門",澳門蓮花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1  tvg-name="澳門資訊" group-title="🇲🇴澳門",澳門資訊
@@ -184,11 +184,12 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f3823
 #EXTINF:-1  tvg-name="南國都市" group-title="🎡廣東",南國都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 #EXTINF:-1  tvg-name="廣東衞視" group-title="🎡廣東",廣東衞視
-https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
+#http://cnlive.org/channel/62f9400c/index.m3u8
 #EXTINF:-1  tvg-name="廣東體育" group-title="🎡廣東",廣東體育
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4z9k6f
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2ocqfj
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
