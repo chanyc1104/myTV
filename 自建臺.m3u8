@@ -33,8 +33,14 @@ https://6.cdn.loc.cc/163189.php?id=tvb1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1  tvg-name="ViuTV" group-title="🇭🇰香港",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1  tvg-name="HOY(有線)76" group-title="🇭🇰香港",HOY(有線)76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1  tvg-name="HOY(有線)77" group-title="🇭🇰香港",HOY(有線)77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1  tvg-name="HOY(有線)77" group-title="🇭🇰香港",HOY(有線)77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1  tvg-name="HOY(有線)78" group-title="🇭🇰香港",HOY(有線)78
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1  tvg-name="NOW新聞台" group-title="🇭🇰香港",NOW新聞台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1  tvg-name="NOW直播台" group-title="🇭🇰香港",NOW直播台
@@ -189,6 +195,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
