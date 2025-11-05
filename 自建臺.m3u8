@@ -48,6 +48,9 @@ http://hls.168.us.kg/u/331/master.m3u8
 #EXTINF:-1  tvg-name="NOW財經台" group-title="🇭🇰香港",NOW財經台
 http://hls.168.us.kg/u/333/master.m3u8
 
+#EXTINF:-1  tvg-name="C+頻道" group-title="🇭🇰香港",C+頻道
+https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
+
 
 #EXTINF:-1  tvg-name="RTHK31" group-title="🚏RTHK",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -214,6 +217,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
