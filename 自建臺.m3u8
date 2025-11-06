@@ -12,7 +12,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1  tvg-name="無線新聞台" group-title="🇭🇰香港",無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1  tvg-name="明珠台" group-title="🇭🇰香港",明珠台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=92ddma
+#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=92ddma
 #EXTINF:-1  tvg-name="明珠台" group-title="🇭🇰香港",明珠台
 https://stream1.freetv.fun/1b88873a8652313af0d13be1327f60bc25f325dd2dca197899cf4d2f81444232.ctv
 #EXTINF:-1  tvg-name="myTV SUPER 18台" group-title="🇭🇰香港",myTV SUPER 18台
@@ -213,6 +213,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
