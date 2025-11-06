@@ -13,14 +13,14 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1  tvg-name="明珠台" group-title="🇭🇰香港",明珠台
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=92ddma
+#EXTINF:-1  tvg-name="明珠台" group-title="🇭🇰香港",明珠台
+https://stream1.freetv.fun/1b88873a8652313af0d13be1327f60bc25f325dd2dca197899cf4d2f81444232.ctv
 #EXTINF:-1  tvg-name="myTV SUPER 18台" group-title="🇭🇰香港",myTV SUPER 18台
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1  tvg-name="TVB娛樂新聞台" group-title="🇭🇰香港",TVB娛樂新聞台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 #EXTINF:-1  tvg-name="TVB娛樂新聞台" group-title="🇭🇰香港",TVB娛樂新聞台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1  tvg-name="翡翠劇集台" group-title="🇭🇰香港",翡翠劇集台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=rfvjtb
 #EXTINF:-1  tvg-name="TVB星河" group-title="🇭🇰香港",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1  tvg-name="TVB武俠" group-title="🇭🇰香港",TVB武俠
@@ -77,7 +77,7 @@ http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&
 http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 
 
-
+#EXTINF:-1  tvg-name="星空衛視" group-title="🦚鳳凰",星空衛視
 
 #EXTINF:-1  tvg-name="鳳凰中文" group-title="🦚鳳凰",鳳凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -125,11 +125,7 @@ https://smt.858.qzz.io/Smart.php?id=hbohd_twn
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=n0qmty
 #EXTINF:-1  tvg-name="Thrill" group-title="🎥影視",Thrill
 https://smt.858.qzz.io/Smart.php?id=Thrill
-#EXTINF:-1  tvg-name="CINEMAX" group-title="🎥影視",CINEMAX
-http://2099.tv12.xyz/74_1762352241445.m3u8
 
-#EXTINF:-1  tvg-name="龍祥時代" group-title="🎥影視",龍祥時代
-https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 
 #EXTINF:-1  tvg-name="龍華電影" group-title="🎥影視",龍華電影
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
@@ -147,22 +143,22 @@ https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
 
 #EXTINF:-1  tvg-name="Astro Football" group-title="🪂體育",Astro Football
-http://2099.tv12.xyz/130_1762352241445.m3u8
+#http://2099.tv12.xyz/130_1762352241445.m3u8
 #EXTINF:-1  tvg-name="博斯網球" group-title="🪂體育",博斯網球
-http://2099.tv12.xyz/106_1762352241445.m3u8
+#http://2099.tv12.xyz/106_1762352241445.m3u8
 #EXTINF:-1  tvg-name="博斯無限" group-title="🪂體育",博斯無限
-http://2099.tv12.xyz/109_1762352241445.m3u8
+#http://2099.tv12.xyz/109_1762352241445.m3u8
 
 #EXTINF:-1  tvg-name="LOVE NATURE" group-title="🪐紀錄",LOVE NATURE
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zibfue
 #EXTINF:-1  tvg-name="動物星球" group-title="🪐紀錄",動物星球
-http://2099.tv12.xyz/212_1762352241445.m3u8
+#http://2099.tv12.xyz/212_1762352241445.m3u8
 #EXTINF:-1  tvg-name="Discovery Asia" group-title="🪐紀錄",Discovery Asia
-http://2099.tv12.xyz/213_1762352241445.m3u8
+#http://2099.tv12.xyz/213_1762352241445.m3u8
 #EXTINF:-1  tvg-name="Discovery HD" group-title="🪐紀錄",Discovery HD
-http://2099.tv12.xyz/216_1762352241445.m3u8
+#http://2099.tv12.xyz/216_1762352241445.m3u8
 #EXTINF:-1  tvg-name="History" group-title="🪐紀錄",History
-http://2099.tv12.xyz/222_1762352241445.m3u8
+#http://2099.tv12.xyz/222_1762352241445.m3u8
 
 
 #EXTINF:-1  tvg-name="CCTV-1 綜合" group-title="🇨🇳國內",CCTV-1 綜合
@@ -217,6 +213,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
