@@ -1,4 +1,24 @@
 #EXTM3U
+
+#EXTINF:-1  tvg-name="該項需要優質網絡" group-title="🍄TVB",該項需要優質網絡
+https://
+#EXTINF:-1  tvg-name="聰明的人才能觀看" group-title="🍄TVB",聰明的人才能觀看
+https://
+#EXTINF:-1  tvg-name="翡翠台4K" group-title="🍄TVB",翡翠台4K
+https://php.946985.filegear-sg.me/mytv265.php?id=JUHD
+#EXTINF:-1  tvg-name="翡翠台" group-title="🍄TVB",翡翠台
+https://php.946985.filegear-sg.me/mytv265.php?id=J
+#EXTINF:-1  tvg-name="TVB PLUS" group-title="🍄TVB",TVB PLUS
+https://php.946985.filegear-sg.me/mytv265.php?id=B
+#EXTINF:-1  tvg-name="無線新聞台" group-title="🍄TVB",無線新聞台
+https://php.946985.filegear-sg.me/mytv265.php?id=C
+#EXTINF:-1  tvg-name="明珠台" group-title="🍄TVB",明珠台
+https://php.946985.filegear-sg.me/mytv265.php?id=P
+
+
+
+
+
 #EXTINF:-1  tvg-name="翡翠台4K" group-title="🇭🇰香港",翡翠台4K
 http://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1  tvg-name="翡翠台4K" group-title="🇭🇰香港",翡翠台4K
@@ -213,6 +233,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
