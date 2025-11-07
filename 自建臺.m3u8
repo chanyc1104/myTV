@@ -48,21 +48,19 @@ http://cdn.163189.xyz/163189/now
 http://hls.168.us.kg/u/331/master.m3u8
 #EXTINF:-1  tvg-name="NOW財經台" group-title="🇭🇰香港",NOW財經台
 http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1  tvg-name="RTHK31" group-title="🇭🇰香港",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1  tvg-name="RTHK32" group-title="🇭🇰香港",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1  tvg-name="RTHK33" group-title="🇭🇰香港",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1  tvg-name="RTHK34" group-title="🇭🇰香港",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1  tvg-name="RTHK35" group-title="🇭🇰香港",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 #EXTINF:-1  tvg-name="C+頻道" group-title="🇭🇰香港",C+頻道
 https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
-
-
-#EXTINF:-1  tvg-name="RTHK31" group-title="🚏RTHK",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1  tvg-name="RTHK32" group-title="🚏RTHK",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1  tvg-name="RTHK33" group-title="🚏RTHK",RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1  tvg-name="RTHK34" group-title="🚏RTHK",RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1  tvg-name="RTHK35" group-title="🚏RTHK",RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 
 
@@ -77,15 +75,6 @@ http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&
 #EXTINF:-1  tvg-name="澳門資訊" group-title="🇲🇴澳門",澳門資訊
 http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 
-
-#EXTINF:-1  tvg-name="星空衛視" group-title="🦚鳳凰",星空衛視
-
-#EXTINF:-1  tvg-name="鳳凰中文" group-title="🦚鳳凰",鳳凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1  tvg-name="鳳凰資訊" group-title="🦚鳳凰",鳳凰資訊
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1  tvg-name="鳳凰香港" group-title="🦚鳳凰",鳳凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1  tvg-name="東森新聞" group-title="🇹🇼台灣",東森新聞
@@ -102,6 +91,18 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1  tvg-name="三立臺灣" group-title="🇹🇼台灣",三立臺灣
 #http://2099.tv12.xyz/69_1762352241445.m3u8
+
+
+
+#EXTINF:-1  tvg-name="星空衛視" group-title="🦚鳳凰",星空衛視
+#
+#EXTINF:-1  tvg-name="鳳凰中文" group-title="🦚鳳凰",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1  tvg-name="鳳凰資訊" group-title="🦚鳳凰",鳳凰資訊
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1  tvg-name="鳳凰香港" group-title="🦚鳳凰",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
 
 
 #EXTINF:-1  tvg-name="好萊塢電影台" group-title="🎥影視",好萊塢電影台
@@ -128,6 +129,7 @@ https://smt.858.qzz.io/Smart.php?id=hbohd_twn
 https://smt.858.qzz.io/Smart.php?id=Thrill
 
 
+
 #EXTINF:-1  tvg-name="龍華電影" group-title="🎥影視",龍華電影
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
 #EXTINF:-1  tvg-name="龍華經典" group-title="🎥影視",龍華經典
@@ -143,12 +145,16 @@ https://smt.858.qzz.io/Smart.php?id=Thrill
 #EXTINF:-1  tvg-name="龍華洋片" group-title="🎥影視",龍華洋片
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
 
+
+
 #EXTINF:-1  tvg-name="Astro Football" group-title="🪂體育",Astro Football
 #http://2099.tv12.xyz/130_1762352241445.m3u8
 #EXTINF:-1  tvg-name="博斯網球" group-title="🪂體育",博斯網球
 #http://2099.tv12.xyz/106_1762352241445.m3u8
 #EXTINF:-1  tvg-name="博斯無限" group-title="🪂體育",博斯無限
 #http://2099.tv12.xyz/109_1762352241445.m3u8
+
+
 
 #EXTINF:-1  tvg-name="LOVE NATURE" group-title="🪐紀錄",LOVE NATURE
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zibfue
@@ -160,6 +166,7 @@ https://smt.858.qzz.io/Smart.php?id=Thrill
 #http://2099.tv12.xyz/216_1762352241445.m3u8
 #EXTINF:-1  tvg-name="History" group-title="🪐紀錄",History
 #http://2099.tv12.xyz/222_1762352241445.m3u8
+
 
 
 #EXTINF:-1  tvg-name="CCTV-1 綜合" group-title="🇨🇳國內",CCTV-1 綜合
@@ -202,6 +209,7 @@ https://smt.858.qzz.io/Smart.php?id=cctv17
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gzq3gg
 
 
+
 #EXTINF:-1  tvg-name="廣州新聞" group-title="🎡廣東",廣州新聞
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 #EXTINF:-1  tvg-name="廣州綜合" group-title="🎡廣東",廣州綜合
@@ -214,6 +222,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
