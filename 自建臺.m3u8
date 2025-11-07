@@ -99,8 +99,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
 #EXTINF:-1  tvg-name="好萊塢電影台" group-title="🎥影視",好萊塢電影台
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hollywoodmovies_twn&token=jacktv
 https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1  tvg-name="美亞電影台(普)" group-title="🎥影視",美亞電影台(普)
+#EXTINF:-1  tvg-name="美亞電影台" group-title="🎥影視",美亞電影台
+https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://cnlive.org/channel/n6d2f2fd2/index.m3u8
 #EXTINF:-1  tvg-name="天映頻道(粵)" group-title="🎥影視",天映頻道(粵)
@@ -214,6 +216,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
