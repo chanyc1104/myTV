@@ -96,8 +96,6 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 
-#EXTINF:-1  tvg-name="星空衛視" group-title="🦚鳳凰",星空衛視
-#
 #EXTINF:-1  tvg-name="鳳凰中文" group-title="🦚鳳凰",鳳凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1  tvg-name="鳳凰資訊" group-title="🦚鳳凰",鳳凰資訊
@@ -224,6 +222,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
