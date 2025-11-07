@@ -49,9 +49,13 @@ http://hls.168.us.kg/u/331/master.m3u8
 #EXTINF:-1  tvg-name="NOW財經台" group-title="🇭🇰香港",NOW財經台
 http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1  tvg-name="RTHK31" group-title="🇭🇰香港",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1  tvg-name="RTHK31" group-title="🇭🇰香港",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1  tvg-name="RTHK32" group-title="🇭🇰香港",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1  tvg-name="RTHK33" group-title="🇭🇰香港",RTHK33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1  tvg-name="RTHK33" group-title="🇭🇰香港",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1  tvg-name="RTHK34" group-title="🇭🇰香港",RTHK34
@@ -222,6 +226,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
