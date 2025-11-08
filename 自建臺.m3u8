@@ -102,24 +102,29 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hollywoodmovies_twn&token=jacktv
 https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1  tvg-name="美亞電影台" group-title="🎥影視",美亞電影台
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=meiyamovie_twn&token=jacktv
 https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1  tvg-name="天映頻道(粵)" group-title="🎥影視",天映頻道(粵)
-https://smt.858.qzz.io/Smart.php?id=Celestialindo
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Celestial&token=jacktv
 #EXTINF:-1  tvg-name="天映頻道(普)" group-title="🎥影視",天映頻道(普)
-https://smt.858.qzz.io/Smart.php?id=Celestial
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Celestialindo&token=jacktv
 #EXTINF:-1  tvg-name="天映頻道(懷舊)" group-title="🎥影視",天映頻道(懷舊)
-https://smt.858.qzz.io/Smart.php?id=Celestial2
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Celestial2&token=jacktv
 #EXTINF:-1  tvg-name="東森電影" group-title="🎥影視",東森電影
 https://smt.858.qzz.io/Smart.php?id=ettvmovie
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ettvmovie&token=jacktv
 #EXTINF:-1  tvg-name="東森洋片" group-title="🎥影視",東森洋片
 https://smt.858.qzz.io/Smart.php?id=ettvwestern
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=ettvwestern&token=jacktv
 #EXTINF:-1  tvg-name="HBO_HD" group-title="🎥影視",HBO_HD
 https://smt.858.qzz.io/Smart.php?id=hbohd_twn
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hbohd_twn&token=jacktv
 #EXTINF:-1  tvg-name="ROCKAction" group-title="🎥影視",ROCKAction
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=n0qmty
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Rockaction&token=jacktv
 #EXTINF:-1  tvg-name="Thrill" group-title="🎥影視",Thrill
 https://smt.858.qzz.io/Smart.php?id=Thrill
+https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Thrill&token=jacktv
 
 
 
@@ -215,6 +220,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
