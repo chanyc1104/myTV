@@ -127,7 +127,12 @@ https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloud
 https://smt.858.qzz.io/Smart.php?id=Thrill
 https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Thrill&token=jacktv
 
-
+#EXTINF:-1  tvg-name="CHC家庭影院" group-title="🎥影視",CHC家庭影院
+https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8?IAS
+#EXTINF:-1  tvg-name="CHC動作電影" group-title="🎥影視",CHC動作電影
+https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?IAS
+#EXTINF:-1  tvg-name="CHC影迷電影" group-title="🎥影視",CHC影迷電影
+https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
 
 #EXTINF:-1  tvg-name="龍華電影" group-title="🎥影視",龍華電影
 #https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
@@ -205,7 +210,7 @@ https://smt.858.qzz.io/Smart.php?id=cctv16
 #EXTINF:-1  tvg-name="CCTV-17 農村農業" group-title="🇨🇳國內",CCTV-17 農村農業
 https://smt.858.qzz.io/Smart.php?id=cctv17
 #EXTINF:-1  tvg-name="五星體育" group-title="🇨🇳國內",五星體育
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gzq3gg
+https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IAS
 
 
 
@@ -216,11 +221,15 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f3823
 #EXTINF:-1  tvg-name="南國都市" group-title="🎡廣東",南國都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 #EXTINF:-1  tvg-name="廣東衞視" group-title="🎡廣東",廣東衞視
+https://shyd.695847.xyz/cms001/ch00000090990000001032/index.m3u8?IAS
 #http://cnlive.org/channel/62f9400c/index.m3u8
 #EXTINF:-1  tvg-name="廣東體育" group-title="🎡廣東",廣東體育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1  tvg-name="深圳衞視" group-title="🎡廣東",深圳衞視
+https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+
 
 
 
