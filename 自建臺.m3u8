@@ -9,6 +9,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1  tvg-name="TVB PLUS" group-title="🇭🇰香港",TVB PLUS
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1  tvg-name="無線新聞台" group-title="🇭🇰香港",無線新聞台
+http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1  tvg-name="明珠台" group-title="🇭🇰香港",明珠台
 https://stream1.freetv.fun/ming-zhu-10.m3u8
@@ -220,6 +221,7 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1  tvg-name="廣東珠江" group-title="🎡廣東",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 
 
 
