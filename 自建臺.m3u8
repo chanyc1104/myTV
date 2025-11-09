@@ -59,6 +59,9 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1  tvg-name="RTHK35" group-title="🇭🇰香港",RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
+#EXTINF:-1  tvg-name="香港環球衛視" group-title="🇭🇰香港",香港環球衛視
+rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
+
 #EXTINF:-1  tvg-name="C+頻道" group-title="🇭🇰香港",C+頻道
 https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
 
@@ -240,6 +243,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1  tvg-name="深圳衞視" group-title="🎡廣東",深圳衞視
 https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+
 
 
 
