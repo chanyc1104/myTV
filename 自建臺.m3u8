@@ -107,6 +107,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1  tvg-name="好萊塢電影台" group-title="🎥影視",好萊塢電影台
 https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=hollywoodmovies_twn&token=jacktv
 https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1  tvg-name="AXN" group-title="🎥影視",AXN
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
 #EXTINF:-1  tvg-name="美亞電影台" group-title="🎥影視",美亞電影台
 https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=meiyamovie_twn&token=jacktv
 https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
@@ -260,6 +262,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1  tvg-name="深圳衞視" group-title="🎡廣東",深圳衞視
 https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+
 
 
 
