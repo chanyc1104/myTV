@@ -62,8 +62,7 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1  tvg-name="香港環球衛視" group-title="🇭🇰香港",香港環球衛視
 rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
 
-#EXTINF:-1  tvg-name="C+頻道" group-title="🇭🇰香港",C+頻道
-https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
+
 
 
 
@@ -143,19 +142,19 @@ https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?IAS
 https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
 
 #EXTINF:-1  tvg-name="龍華電影" group-title="🎥影視",龍華電影
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vw3npo
 #EXTINF:-1  tvg-name="龍華經典" group-title="🎥影視",龍華經典
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1pz6ai
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=1pz6ai
 #EXTINF:-1  tvg-name="龍華卡通" group-title="🎥影視",龍華卡通
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=jq9j4e
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=jq9j4e
 #EXTINF:-1  tvg-name="龍華偶像" group-title="🎥影視",龍華偶像
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=egi3ed
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=egi3ed
 #EXTINF:-1  tvg-name="龍華日韓" group-title="🎥影視",龍華日韓
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=s1l1rr
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=s1l1rr
 #EXTINF:-1  tvg-name="龍華戲劇" group-title="🎥影視",龍華戲劇
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yojjwc
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yojjwc
 #EXTINF:-1  tvg-name="龍華洋片" group-title="🎥影視",龍華洋片
-#https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=5mva8n
 
 
 
@@ -263,6 +262,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1  tvg-name="深圳衞視" group-title="🎡廣東",深圳衞視
 https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+
 
 
 
